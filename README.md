@@ -1,4 +1,3 @@
-# -ADAMAGZAL
 <h1 align="center">Hi there 👋, I'm Adam Agzal</h1>
 <h3 align="center">Physics Student at Faculty of Sciences Rabat (UM5) | Robotics & Cybersecurity Enthusiast</h3>
 
