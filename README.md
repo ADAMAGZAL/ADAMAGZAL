@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Adam Agzal</h1>
-<h3 align="center">Physics Student at Faculty of Sciences Rabat (UM5) | Robotics & Cybersecurity Enthusiast</h3>
+<h3 align="center">Physics Student at Faculty of Sciences Rabat | Robotics & Cybersecurity Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I'm a physics student at the **Faculty of Sciences, Rabat (UM5)**.
+- 🔭 I'm a physics student at the **Faculty of Sciences, Rabat **.
 - 🚀 Deeply passionate and experienced in **Robotics, Hardware Engineering, and Cybersecurity**. 
 - ⚡ **I truly excel in hardware**—working extensively with a wide variety of microcontrollers, sensors, motors, and electronic systems.
 - 🛡️ Exploring the fields of cybersecurity, network auditing, and ethical hacking.
